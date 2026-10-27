@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://addept.ai/logo_addept_branco.png" alt="Addept" width="400" />
+<!-- <img src="https://addept.ai/logo_addept_branco.png" alt="Addept" width="400" /> -->
 
 <br/>
 <br/>
